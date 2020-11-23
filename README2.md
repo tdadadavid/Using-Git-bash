@@ -5,3 +5,4 @@ and also am editing the file and see what ican done on git bash
 testing 
 git add
 git commit 
+git status
