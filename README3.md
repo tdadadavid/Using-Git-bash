@@ -8,3 +8,5 @@ git commit
 git status
 
 I want to practice git push myself
+Am making a change on my github hoping to find 
+it also on my README3 file on my local desktop
